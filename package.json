@@ -1,0 +1,20 @@
+{
+  "name": "phaser-game-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:QortexDevs/phaser-game-frontend.git",
+  "author": "it@qortex.ru",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5",
+    "vite": "^2.8.4"
+  }
+}
